@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked HTML bug: an element's visibility is toggled but never restored. The `bug.html` file shows the problematic code. The `bugSolution.html` provides a solution by using a timeout to restore visibility.
